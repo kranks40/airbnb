@@ -2,19 +2,19 @@
     display: flex;
     justify-content: space-evenly;
     margin: 20px;
-    padding-top: 60px;
+    /* padding-top: 5px; */
 }
 
 .home__section2 {
     display: flex;
     justify-content: space-evenly;
     margin: 20px;
-    padding-top: 60px;
+    /* padding-top: 10px; */
 }
 
 .home__section3 {
     display: flex;
     justify-content: space-evenly;
     margin: 20px;
-    padding-top: 60px;
+    /* padding-top: 10px; */
 }
