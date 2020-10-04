@@ -23,11 +23,12 @@ function SearchResults({ img, location, title, description, star, price, total})
                     <p><strong>{star}</strong></p>
                     
                     </div>
-                </div>
+               
                    <div className="searchResults__price">
                        <h2>{price}</h2>
                        <p>{total}</p>
-                       </div> 
+                    </div> 
+                </div>
             </div>
         </div>
     )
